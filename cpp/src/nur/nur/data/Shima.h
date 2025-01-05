@@ -9,6 +9,7 @@
 #include <map>
 #include <set>
 #include <numeric>
+#include <algorithm>
 
 namespace nur {
 
