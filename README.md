@@ -9,14 +9,12 @@
 ## C++版
 
 * これがメインの成果物です。
-* 開発プラットフォームは WSL2 上の Linux (Ubuntu) + gcc を主とし、補助的に Windows + Visual Studio 2022 および Mac + gcc (Homebrew でインストール)での確認も行っています。
+* 開発プラットフォームは WSL2 上の Linux (Ubuntu) + gcc を主とし、補助的に Windows + Visual Studio 2022 および Mac + gcc での確認も行っています。
 
 ### ビルド方法
 
 * gcc や Visual Studio をインストールし、cmake が使える環境を整えてください。
 * Mac の場合は Homebrew で gcc と cmake をインストールしてください。
-
-```
 
 ### gcc の場合
 
